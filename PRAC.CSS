@@ -1,0 +1,23 @@
+
+*{
+  
+}
+#one{
+  height: 100px;
+  width :100px;
+  background-image:url("bg..jpg");
+  background-size:cover;
+  position: absolute;
+  right:0px;
+}
+#two
+{
+  height:100px;
+  width:100px;
+  background-image:url("city.jpg");
+  background-size:cover;
+  position: absolute;
+  right: 0px;
+}
+
+  
